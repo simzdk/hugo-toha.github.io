@@ -2,6 +2,6 @@
   "name": "hugo-toha.github.io",
   "version": "0.1.0",
   "scripts": {
-    "build": "hugo"
+    "build": "hugo-toha.github.io"
   }
 }
