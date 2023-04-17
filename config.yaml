@@ -1,7 +1,7 @@
 baseURL: https://simonamby.dk
 
 languageCode: en-us
-title: "John's Blog"
+title: "Simon's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -64,7 +64,11 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
+<<<<<<< HEAD
   gitRepo: https://github.com/simzdk/hugo-toha.github.io.git
+=======
+  gitRepo: https://github.com/simzdk/hugo-toha.github.io
+>>>>>>> bc435a4d0b234714a8a15920ef4b20d632be4acd
   # Default branch of your Git repo
   gitBranch: main
 
