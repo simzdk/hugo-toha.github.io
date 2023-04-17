@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module https://github.com/simzdk/hugo-toha.github.io
 
 go 1.19
 
